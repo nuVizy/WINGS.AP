@@ -11,7 +11,7 @@ interface SEOProps {
 export default function SEO({ title, description, canonical, type = 'website', image }: SEOProps) {
   const siteUrl = 'https://www.wings-ap.com';
   const fullCanonical = canonical ? `${siteUrl}${canonical}` : siteUrl;
-  const ogImage = image || `${siteUrl}/og-image.jpg`;
+  const ogImage = image || `${siteUrl}/ogimage.jpg`;
 
   return (
     <Helmet>
