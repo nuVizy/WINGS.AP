@@ -11,7 +11,7 @@ interface SEOProps {
 export default function SEO({ title, description, canonical, type = 'website', image }: SEOProps) {
   const siteUrl = 'https://wingsap.netlify.app';
   const fullCanonical = canonical ? `${siteUrl}${canonical}` : siteUrl;
-  const ogImage = image || `${siteUrl}/ogimage.jpg`;
+  const ogImage = image || `${siteUrl}/ogimage.png`;
 
   return (
     <Helmet>
