@@ -3,22 +3,10 @@ import { Link } from 'react-router-dom';
 import SEO from '../components/SEO';
 
 import ReactPlayer from 'react-player';
-import { useState, useEffect } from 'react';
 
 const Player = ReactPlayer as any;
 
 export default function Home() {
-  const [isPlaying, setIsPlaying] = useState(false);
-
-  useEffect(() => {
-    // Small delay to ensure DOM is ready and prevent race conditions on mount/unmount
-    const timer = setTimeout(() => setIsPlaying(true), 100);
-    return () => {
-      clearTimeout(timer);
-      setIsPlaying(false);
-    };
-  }, []);
-
   const services = [
     {
       title: 'Accredited Music Courses',
@@ -258,14 +246,13 @@ export default function Home() {
               className="aspect-video rounded-[3rem] overflow-hidden border border-white/10 shadow-2xl bg-brand-ink"
             >
               <Player
-                url="https://video.squarespace-cdn.com/content/v1/673e35f9381a352a4b6c166f/e572b9e5-c72a-4552-a9e2-8a53202b0bc3/segments/mpegts-h264-2580:1080.m3u8?Expires=1773634846&Signature=NTZmMzg1ZWZlNjc0ZTljZDIwMWNlYTE2NDk2NWY3NjJjYjNkM2UwMjVmMDMwYWU3ODBjMjcwMGFjNmQwMDVlMQ"
+                src="/VS%20PRU%20Promo%20ex7.mp4"
                 width="100%"
                 height="100%"
                 controls
-                playing={isPlaying}
                 muted={true}
                 loop={true}
-                playsinline={true}
+                playsInline={true}
               />
             </motion.div>
             <div className="mt-12 text-center">
