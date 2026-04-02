@@ -22,7 +22,7 @@ export default function Privacy() {
             <div className="space-y-10 text-white/70 leading-relaxed md:border-l border-white/10 md:pl-8">
               <div>
                 <h2 className="text-xl font-heading text-white mb-4">Information We Collect</h2>
-                <p>When you use our contact form, we collect your name, email address, and message content solely to respond to your enquiry. We do not collect any data automatically beyond what is standard for web hosting (e.g. server logs).</p>
+                <p>If you contact us by email, we may receive your name, email address, and any information you choose to include in your message. We do not collect any additional personal information through a website contact form.</p>
               </div>
 
               <div>
@@ -32,7 +32,7 @@ export default function Privacy() {
 
               <div>
                 <h2 className="text-xl font-heading text-white mb-4">Data Storage</h2>
-                <p>Contact form submissions are processed through Netlify Forms and stored securely. We retain your information only as long as necessary to address your enquiry.</p>
+                <p>Email enquiries are handled through our email provider and retained only as long as necessary to respond to your enquiry or manage any follow-up communication.</p>
               </div>
 
               <div>
