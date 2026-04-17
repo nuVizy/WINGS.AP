@@ -37,12 +37,12 @@ export default function Privacy() {
 
               <div>
                 <h2 className="text-xl font-heading text-white mb-4">Your Rights</h2>
-                <p>You have the right to request access to, correction of, or deletion of your personal data. To make a request, please email us at <a href="mailto:info@wings-ap.com" className="text-brand-orange hover:underline">info@wings-ap.com</a>.</p>
+                <p>You have the right to request access to, correction of, or deletion of your personal data. To make a request, please email us at <a href="mailto:nick@wings-ap.com" className="text-brand-orange hover:underline">nick@wings-ap.com</a>.</p>
               </div>
 
               <div>
                 <h2 className="text-xl font-heading text-white mb-4">Contact</h2>
-                <p>If you have questions about this privacy policy, please contact us at <a href="mailto:info@wings-ap.com" className="text-brand-orange hover:underline">info@wings-ap.com</a>.</p>
+                <p>If you have questions about this privacy policy, please contact us at <a href="mailto:nick@wings-ap.com" className="text-brand-orange hover:underline">nick@wings-ap.com</a>.</p>
               </div>
             </div>
           </motion.div>

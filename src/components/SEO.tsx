@@ -41,7 +41,7 @@ export default function SEO({ title, description, canonical, type = 'website', i
           "contactPoint": {
             "@type": "ContactPoint",
             "contactType": "customer support",
-            "email": "info@wings-ap.com"
+            "email": "nick@wings-ap.com"
           }
         })}
       </script>

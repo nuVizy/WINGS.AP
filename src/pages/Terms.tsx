@@ -42,7 +42,7 @@ export default function Terms() {
 
               <div>
                 <h2 className="text-xl font-heading text-white mb-4">Contact</h2>
-                <p>If you have questions about these terms, please contact us at <a href="mailto:info@wings-ap.com" className="text-brand-orange hover:underline">info@wings-ap.com</a>.</p>
+                <p>If you have questions about these terms, please contact us at <a href="mailto:nick@wings-ap.com" className="text-brand-orange hover:underline">nick@wings-ap.com</a>.</p>
               </div>
             </div>
           </motion.div>

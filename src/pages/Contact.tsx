@@ -2,7 +2,7 @@ import { motion } from 'motion/react';
 import SEO from '../components/SEO';
 
 export default function Contact() {
-  const emailAddress = 'info@wings-ap.com';
+  const emailAddress = 'nick@wings-ap.com';
   const enquiryMailto = `mailto:${emailAddress}?subject=WINGS.AP%20Enquiry`;
   const referralMailto = `mailto:${emailAddress}?subject=WINGS.AP%20Referral%20Enquiry`;
 
