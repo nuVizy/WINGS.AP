@@ -233,11 +233,11 @@ export default function Home() {
         <div className="absolute inset-0 bg-gradient-to-b from-brand-black/80 via-transparent to-brand-black/80" />
         <div className="absolute inset-0 flex items-center justify-center">
           <motion.h2
-            initial={{ opacity: 0, y: 20, letterSpacing: '0.5em' }}
-            whileInView={{ opacity: 1, y: 0, letterSpacing: '0.15em' }}
+            initial={{ opacity: 0, y: 20, letterSpacing: '0.08em' }}
+            whileInView={{ opacity: 1, y: 0, letterSpacing: '0.02em' }}
             viewport={{ once: true }}
             transition={{ duration: 1.2, ease: 'easeOut' }}
-            className="text-7xl md:text-[12vw] font-display uppercase text-white tracking-wide select-none text-center px-6"
+            className="text-[8vw] font-display uppercase text-white tracking-normal select-none text-center px-6"
           >
             TRANSFORMATION
           </motion.h2>
