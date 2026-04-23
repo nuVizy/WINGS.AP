@@ -31,7 +31,7 @@ export default function Contact() {
     <div className="bg-brand-black">
       <SEO
         title="Contact | Wings AP | Alternative Provision Manchester"
-        description="Get in touch with Wings AP. Email nick@wings-ap.com or call 07735 983 695 for referrals, commissioning enquiries and partnerships."
+        description="Get in touch with Wings AP. Email nick@wings-ap.com for referrals, commissioning enquiries and partnerships."
         canonical="/contact"
       />
 
@@ -192,18 +192,6 @@ export default function Contact() {
                       className="text-xl font-heading text-white hover:text-brand-orange transition-colors break-all"
                     >
                       nick@wings-ap.com
-                    </a>
-                  </div>
-                  <div className="h-px bg-white/5" />
-                  <div>
-                    <p className="text-[10px] uppercase tracking-[0.3em] text-white/30 mb-2">
-                      Phone
-                    </p>
-                    <a
-                      href="tel:07735983695"
-                      className="text-xl font-heading text-white hover:text-brand-orange transition-colors"
-                    >
-                      07735 983 695
                     </a>
                   </div>
                   <div className="h-px bg-white/5" />

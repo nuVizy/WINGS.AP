@@ -14,7 +14,7 @@ export default function Refer() {
     <div className="bg-brand-black">
       <SEO
         title="Refer a Young Person | Wings AP | Alternative Provision Manchester"
-        description="Refer a young person to Wings AP. We accept referrals throughout the year for young people aged 11–18 across Greater Manchester and Trafford. Respond within 5 working days."
+        description="Refer a young person to Wings AP. We accept referrals throughout the year for young people aged 11+ across Greater Manchester and Trafford. Respond within 5 working days."
         canonical="/refer"
       />
 
@@ -58,7 +58,7 @@ export default function Refer() {
             >
               <p className="text-white/70 text-base md:text-lg leading-relaxed mb-16 md:border-l border-brand-orange/30 md:pl-6">
                 Wings AP accepts referrals throughout the year, subject to availability. We work with
-                young people aged 11–18 across Greater Manchester and Trafford. Download and complete
+                young people aged 11+ across Greater Manchester and Trafford. Download and complete
                 our referral form and return it to{' '}
                 <a
                   href="mailto:nick@wings-ap.com"
@@ -149,18 +149,6 @@ export default function Refer() {
                       className="text-xl font-heading text-white hover:text-brand-orange transition-colors"
                     >
                       nick@wings-ap.com
-                    </a>
-                  </div>
-                  <div className="h-px bg-white/5" />
-                  <div>
-                    <p className="text-[10px] uppercase tracking-[0.3em] text-white/30 mb-2">
-                      Phone
-                    </p>
-                    <a
-                      href="tel:07735983695"
-                      className="text-xl font-heading text-white hover:text-brand-orange transition-colors"
-                    >
-                      07735 983 695
                     </a>
                   </div>
                   <div className="h-px bg-white/5" />

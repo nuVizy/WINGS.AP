@@ -19,12 +19,6 @@ export default function Footer() {
               >
                 nick@wings-ap.com
               </a>
-              <a
-                href="tel:07735983695"
-                className="block text-white/50 hover:text-brand-orange transition-colors"
-              >
-                07735 983 695
-              </a>
               <p className="text-white/30 text-xs pt-1">ICO: ZC014532</p>
             </div>
           </div>
@@ -78,7 +72,7 @@ export default function Footer() {
               Make a Referral
             </h4>
             <p className="text-white/50 text-sm leading-relaxed mb-6">
-              We accept referrals throughout the year for young people aged 11–18 across Greater
+              We accept referrals throughout the year for young people aged 11+ across Greater
               Manchester and Trafford.
             </p>
             <Link
