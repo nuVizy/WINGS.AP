@@ -10,7 +10,7 @@ export default function Home() {
     {
       title: 'Accredited Music Courses',
       image: '/studio.webp',
-      text: 'Trinity Arts Awards qualifications delivered through engaging, personalised music sessions. Young people leave with a nationally recognised achievement — often their first positive educational record.',
+      text: 'Trinity Arts Awards qualifications delivered through engaging, personalised music sessions. Young people leave with a nationally recognised achievement, often their first positive educational record.',
     },
     {
       title: 'One-to-One Mentoring',
@@ -20,7 +20,7 @@ export default function Home() {
     {
       title: 'Music-Based Wellbeing Sessions',
       image: '/studio4.webp',
-      text: 'Sessions that draw on the wellbeing benefits of music-making to support self-expression, emotional regulation and confidence — delivered within a trauma-informed, relational approach.',
+      text: 'Sessions that draw on the wellbeing benefits of music-making to support self-expression, emotional regulation and confidence, delivered within a trauma-informed, relational approach.',
     },
   ];
 
@@ -49,7 +49,7 @@ export default function Home() {
     },
     {
       quote:
-        "Your work with young people goes beyond the realms of music; it's a beacon of mentorship and a relational foundation that fosters confidence and self-esteem. Through the powerful medium of music, Wings AP creates a sanctuary — a safe space where young people feel comfortable expressing their experiences and emotions. Sessions succeed in reaching young people where other services have struggled to engage.",
+        "Your work with young people goes beyond the realms of music; it's a beacon of mentorship and a relational foundation that fosters confidence and self-esteem. Through the powerful medium of music, Wings AP creates a sanctuary, a safe space where young people feel comfortable expressing their experiences and emotions. Sessions succeed in reaching young people where other services have struggled to engage.",
       author: 'Sussana',
       role: 'SHINE Social Worker',
       org: 'Complex Safeguarding Team',
@@ -82,7 +82,7 @@ export default function Home() {
             transition={{ duration: 0.8 }}
           >
             <span className="text-xs font-medium uppercase tracking-[0.5em] text-brand-orange mb-6 block">
-              Alternative Provision — Greater Manchester
+              Alternative Provision, Greater Manchester
             </span>
             <h1 className="text-[12vw] md:text-[10vw] font-display uppercase leading-[0.85] tracking-tighter mb-4">
               MUSIC THAT
@@ -131,7 +131,7 @@ export default function Home() {
               <div className="space-y-6 text-white/70 text-base md:text-lg leading-relaxed md:border-l border-white/10 md:pl-8">
                 <p>
                   Wings AP works with some of the most complex and hard-to-reach young people in
-                  Greater Manchester — those in AP settings, on EHCP packages, or who have
+                  Greater Manchester: those in AP settings, on EHCP packages, or who have
                   disengaged from mainstream education. Led by Nick Shahlavi, an award-winning
                   musician with lived experience of the issues many of these young people face,
                   Wings AP uses music as a powerful tool for engagement, achievement and
@@ -139,7 +139,7 @@ export default function Home() {
                 </p>
                 <p>
                   We offer Trinity Arts Awards accredited qualifications, structured mentoring
-                  programmes and music-based wellbeing sessions — all delivered within a
+                  programmes and music-based wellbeing sessions, all delivered within a
                   trauma-informed, relational framework. Our provision is commissioned by schools
                   and local authorities across Greater Manchester and Trafford, including
                   EHCP-funded placements.
@@ -288,7 +288,7 @@ export default function Home() {
                 </div>
                 <blockquote className="text-xl md:text-2xl font-heading italic text-white/90 leading-relaxed mb-10">
                   Music breaks down barriers and helps young people express their innermost feelings
-                  and concerns. I've seen young people's confidence dramatically transform — finding
+                  and concerns. I've seen young people's confidence dramatically transform, finding
                   their voice, sometimes for the first time.
                 </blockquote>
                 <div className="flex items-center gap-4">

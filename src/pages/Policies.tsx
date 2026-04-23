@@ -4,7 +4,7 @@ import SEO from '../components/SEO';
 export default function Policies() {
   const policies = [
     {
-      title: 'Safeguarding Policy — Children and Young People',
+      title: 'Safeguarding Policy: Children and Young People',
       version: 'v2.0, 2025',
       file: '/policies/safeguarding-policy-children-v2.0-2025.pdf',
     },

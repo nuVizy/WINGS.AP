@@ -3,11 +3,11 @@ import SEO from '../components/SEO';
 
 export default function About() {
   const credentials = [
-    'Award-winning musician and music producer — rap, grime, lyric writing, music production',
+    'Award-winning musician and music producer: rap, grime, lyric writing, music production',
     'Qualified to deliver Trinity Arts Awards',
     'Enhanced DBS check (adults and children barred lists)',
     'Current safeguarding training',
-    'ICO registered data controller — ZC014532',
+    'ICO registered data controller: ZC014532',
     'Public liability and professional indemnity insurance held',
     'Provision commissioned by schools and local authorities across Greater Manchester and Trafford including EHCP-funded placements',
   ];
@@ -78,13 +78,13 @@ export default function About() {
                 </p>
                 <p>
                   Nick doesn't work with young people from a position of distance or theory. He
-                  meets them where they are — with authenticity, without judgement, and with genuine
+                  meets them where they are, with authenticity, without judgement, and with genuine
                   hope that transformation is possible for every person, no matter what they've been
                   through.
                 </p>
                 <p>
                   He has spent years working with young people in schools, alternative provision
-                  settings and community contexts across Greater Manchester — building trust through
+                  settings and community contexts across Greater Manchester, building trust through
                   music and helping them find their voice. He has witnessed young people's confidence
                   dramatically build through music, allowing them to develop vital life skills and
                   find healthy, constructive ways to express their feelings.
@@ -137,7 +137,7 @@ export default function About() {
               </h2>
               <div className="space-y-6 text-white/70 text-base md:text-lg leading-relaxed md:border-l border-white/10 md:pl-8">
                 <p>
-                  Nick's music is conscious pain-style rap — honest about struggle, darkness and
+                  Nick's music is conscious pain-style rap, honest about struggle, darkness and
                   lived experience, but always pointing toward hope and transformation. His artistry
                   and his youth work are inseparable: the same voice that speaks through his music
                   speaks to the young people he works with.
@@ -168,7 +168,7 @@ export default function About() {
               <div className="space-y-6 text-white/70 text-base md:text-lg leading-relaxed md:border-l border-white/10 md:pl-8">
                 <p>
                   Nick's Christian faith is the foundation of his conviction that every young person
-                  has inherent worth and potential — that no one is beyond hope or transformation.
+                  has inherent worth and potential. No one is beyond hope or transformation.
                   Wings AP warmly welcomes young people of all backgrounds, faiths and none. Our
                   work is inclusive and non-proselytising.
                 </p>

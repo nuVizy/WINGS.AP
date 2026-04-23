@@ -7,9 +7,9 @@ export default function WhatWeOffer() {
       id: '01',
       title: 'Trinity Arts Awards',
       description:
-        'Wings AP delivers Trinity Arts Awards qualifications through personalised music sessions covering lyric writing, rap, music production, beat-making and performance. Trinity Arts Awards are nationally recognised qualifications that give young people a tangible, celebrated achievement — often the first positive educational record some of our young people have ever had.',
+        'Wings AP delivers Trinity Arts Awards qualifications through personalised music sessions covering lyric writing, rap, music production, beat-making and performance. Trinity Arts Awards are nationally recognised qualifications that give young people a tangible, celebrated achievement, often the first positive educational record some of our young people have ever had.',
       suitableFor:
-        'Young people in AP settings, those on reduced timetables, or those working toward reintegration.',
+        'Young people in AP settings, those on reduced timetables, or those working toward reintegration, including those with EHCP plans.',
       delivery:
         'Group or one-to-one. AP schools, community settings, The Message Trust studios Manchester.',
       image: '/studio.webp',
@@ -18,9 +18,9 @@ export default function WhatWeOffer() {
       id: '02',
       title: 'One-to-One Mentoring',
       description:
-        "Structured one-to-one mentoring using music as the primary engagement tool. Sessions build rapport and trust, address barriers to learning, develop emotional regulation and social skills, and support the young person's journey toward positive outcomes. Music is the vehicle — personal development is the destination. Nick's lived experience means he connects with young people authentically and without judgement.",
+        "Structured one-to-one mentoring using music as the primary engagement tool. Sessions build rapport and trust, address barriers to learning, develop emotional regulation and social skills, and support the young person's journey toward positive outcomes. Music is the vehicle; personal development is the destination. Nick's lived experience means he connects with young people authentically and without judgement.",
       suitableFor:
-        "Young people with SEMH needs, those who haven't engaged with other provision, or those requiring intensive one-to-one support.",
+        "Young people with SEMH needs, those with EHCP plans, or those who haven't engaged with other provision and need intensive one-to-one support.",
       delivery:
         'One-to-one. AP schools, community settings, The Message Trust studios Manchester.',
       image: '/studio4.webp',
@@ -29,16 +29,16 @@ export default function WhatWeOffer() {
       id: '03',
       title: 'Music-Based Wellbeing Sessions',
       description:
-        "Sessions that use the wellbeing benefits of music-making to support young people's self-expression, emotional regulation and confidence. Delivered within a trauma-informed, relational framework, these sessions provide a safe, non-pressured space for young people who are struggling emotionally or who are not yet ready to engage with formal learning. These sessions are not clinical music therapy — they are delivered by an experienced youth practitioner who uses music intentionally to support young people's wellbeing and re-engagement.",
+        "Sessions that use the wellbeing benefits of music-making to support young people's self-expression, emotional regulation and confidence. Delivered within a trauma-informed, relational framework, these sessions provide a safe, non-pressured space for young people who are struggling emotionally or who are not yet ready to engage with formal learning. These sessions are not clinical music therapy. They are delivered by an experienced youth practitioner who uses music intentionally to support young people's wellbeing and re-engagement.",
       suitableFor:
-        'Young people with significant SEMH needs, those carrying trauma or adverse childhood experiences.',
+        'Young people with significant SEMH needs, those with EHCP plans, or those carrying trauma or adverse childhood experiences.',
       delivery: 'One-to-one. All Wings AP settings.',
       image: '/studio5.webp',
     },
   ];
 
   const locations = [
-    "In AP schools and settings — within the host setting's safeguarding framework",
+    "In AP schools and settings, within the host setting's safeguarding framework",
     'In community venues across Greater Manchester',
     'At The Message Trust studios, Sharston, Manchester M22 4RG',
     'On-site at school where preferred by the commissioner',
@@ -77,7 +77,7 @@ export default function WhatWeOffer() {
               <span className="text-stroke">OFFER</span>
             </h1>
             <p className="max-w-xl mx-auto text-white/60 text-base md:text-lg leading-relaxed">
-              Three distinct services — all using music as a tool for engagement, achievement and
+              Three distinct services, all using music as a tool for engagement, achievement and
               transformation.
             </p>
           </motion.div>
